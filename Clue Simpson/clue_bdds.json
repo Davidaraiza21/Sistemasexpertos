@@ -1,0 +1,31 @@
+{
+  "evidencia": [
+    {
+      "personajes": {
+        "Marge S": false,
+        "Homer S": false,
+        "Krusty ": false,
+        "Bart S": false,
+        "Lisa S": false
+      }
+    },
+    {
+      "locaciones": {
+        "Planta nuclear": false,
+        "Casa Simpson": false,
+        "Mansion Burns": false,
+        "Estudios Krusty": false,
+        "Kwik -e- Mart": false
+      }
+    },
+    {
+      "armas": {
+        "Resortera": false,
+        "Saxofon": false,
+        "Collar": false,
+        "Plutonio": false,
+        "Dona envenenada": false
+      }
+    }
+  ]
+}
